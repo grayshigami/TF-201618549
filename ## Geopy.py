@@ -28,7 +28,7 @@ print(location.address)
 print((location.latitude, location.longitude)) 
 
 ## 5
-location = geolocator.geocode("Calle de las Letras, 103, San Borja") 
+location = geolocator.geocode("C. de las Letras, 103, San Borja") 
 print(location.address)
 print((location.latitude, location.longitude)) 
 
