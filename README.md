@@ -2,3 +2,4 @@
 Trabajo Final Complejidad Algorítmica 2022-01
 
 Alejandro Gray - U201618549 - grayshigami
+Jeanpier Alexander - u201523565
